@@ -448,7 +448,7 @@ class Application(discord.Client):
                         self._dict_hangmans_multi_by_guild[message.author.id] = {}
 
         else:
-            dict_hangman = self._dict_hangmans_by_guild[message.guild.id]
+            dict_hangman = self._dict_hangmans_solo_by_guild[message.guild.id]
             list_hangman_multi = self._dict_hangmans_multi_by_guild[message.guild.id]
             if message.author.id in dict_hangman[message.author.id]:
                 list_game_data = dict_hangman[message.author.id]
@@ -457,7 +457,7 @@ class Application(discord.Client):
                         await list_game_data[1].delete()
                         
                         del dict_hangman[message.author.id]
-                        self._dict_hangmans_by_guild = dict_hangman
+                        self._dict_hangmans_solo_by_guild = dict_hangman
                         
                         
                     else:
@@ -576,7 +576,7 @@ class Application(discord.Client):
     
     #gestion user
     def check_user_in_game(self, user_id:int, guild_id:int):
-        dict_user_in_game = self._dict_hangmans_by_guild[guild_id]
+        dict_user_in_game = self._dict_hangmans_multi_by_guild[guild_id]
         if len(dict_user_in_game) > 0:
             return (user_id in dict_user_in_game.keys())
         else:
