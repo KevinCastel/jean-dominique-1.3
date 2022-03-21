@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lang>
+    <fr>
+        <help>
+            <introduce_help>Voici le message d'aide:</introduce_help>
+            <help_play>'jouer' doit contenir des 'childcommand' comme '-solo' (pour jouer en solo) '-multi' (pour jouer en multi)</help_play>
+            <global_help>aide:commande d'aide; jouer:commande pour démarrer une partie;stop:permet d'arrêter une partie si vous êtes en jeu;uninstall:désinstalle l'environnement de l'application</global_help>
+        </help>
+        <error>
+            <error_unknow>Désolé mais une erreur est survenue...</error_unknow>
+            <error_on_command_unknow>Désolé mais cette commande est inconnue</error_on_command_unknow>
+        </error>
+        <game>
+            <word_introduce>Mot:</word_introduce>
+            <chars_tryed>Charactères essayaient:</chars_tryed>
+        </game>
+    </fr>
+    <en>
+        <help>
+            <introduce_help>Here is the help message:</introduce_help>
+            <global_help>help:show this message; play: allow to start an solo game;stop:stop an game if you're into;uninstall:uninstall the application environnement</global_help>
+            <help_play>'play' is used with subcommand as '-solo' (for play in solo) '-multi' (for playing singleplayer)</help_play>
+        </help>
+        <error>
+            <error_unknow>Sorry but an error was raised...</error_unknow>
+            <error_on_command_unknow>Sorry but this command is unknow</error_on_command_unknow>
+        </error>
+        <game>
+            <word_introduce>Word:</word_introduce>
+            <chars_tryed>Characters tryed</chars_tryed>
+        </game>
+    </en>
+</lang>

@@ -1,0 +1,27 @@
+Hello!
+D'abord je voulais m'excuser suite au promesse que je n'ai visiblement pas exécuter jusqu'au bout.
+Suite à une coupure d'internet de mon côté, j'ai décidé malgré tout que je continuerais à bosser hors 
+ligne sur Jean-Dominique cependant n'étant pas connecter je ne peux pas savoir si le mode multijoueur
+fonctionne réellement. C'est pourquoi malgré cette perte de connection j'ai développper ce que j'avais
+prévus pour le 11/03/22. Je vais désormais bosser sur la V.1.3 qui comportera les nouvelles fonctionnalitées
+suivante:
+	Sauvegarde des parties de joueur (c'est à dire que si l'utilisateur joue sur le serveur A et gagne 
+		sa partie et qu'il veut savoir son score en tapant sur un serveur B. il aura accès à une liste de
+		ses scores (gagner partie globalement, partie gagner sur ce serveur))
+	Ajout des Embeds pour le traçage des bugs, c'est-à-dire que les bugs non-controller qui seront déclenchés
+		par un utilisateur alors les bugs seront automatiquement créer sous forme de ticket par l'application
+		elle-même
+	Ajouts de tickets par utiilsateur, similair au paragraphe sur les embeds mais ici se seront les utilisateurs 
+		qui généreront des tickets par erreurs.
+	
+
+Pour moi, il n'y'aura pas eu et il n'y'aura pas de V1.2, en ce qui concerne la publication de l'application Jean-Dominique:
+	cette dernière se faira en V.1.4, je m'abstiendrais de donner une date officielle pour la V1.4 cependant je vais
+	faire mon possible pour la publier le 20/03/2022.
+
+En ce qui concerne Stalkline, je n'ai clairemant pas eu le courage de l'affronter. Je me suis beaucoup concentrer
+sur Jean-Dominique et un nouveau projet d'application de divertissement (Pinky Ball) (un jeu vidéo pour faire simple).
+J'espère vous en dire bien plus sur ce tout nouveau projet bientot (bon à pars @Adrien qui sait déjà :joy:)
+En bref j'annule toutes dates de publication actuelles pour Stalkline puis suite aux dernières nouveautées mondiale (hélas),
+je vais renommer Stalkline en MathsMatiker.
+Bref bon courage et vraiment désolé pour ne pas avoir pus respecter les délais que j'aurais voulus respecter!
